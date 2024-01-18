@@ -1,0 +1,31 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.secondbackground{
+    background-color:hsl(0, 0%, 100%);
+    border-radius: 5%;
+    width: 250px;
+    height: 400px;
+    margin: 80px auto;
+    align-items: center;
+    justify-content: center;
+}
+.secondbackground img{
+    margin: 15px;
+    width: 220px;
+    height: 220px;
+    border-radius: 5%;
+}
+p, h3 {
+    font-family: 'Outfit', sans-serif;
+    margin: 10px;
+    text-align: center;
+}
+p{
+    color: hsl(220, 15%, 55%) ;
+    font-size: 15px;
+}
+h3{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
